@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1480413946 source:d:\garbage\c++\launch 1c\main.cpp
+	<iostream>
+	<conio.h>
+	<locale>
+	<Windows.h>
+
